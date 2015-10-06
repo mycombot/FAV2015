@@ -7,5 +7,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "MY Combot"
+  "author": "MY Combot",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6"
+  }
 }
